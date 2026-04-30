@@ -308,31 +308,31 @@ Imagine a single-person bathroom in a busy restaurant. The "Lock" on the door is
 
 ## Part 6: GitHub Repository Information
 
-**Repository URL**: 
+**Repository URL**: ASSIGNMENT_DOCUMENTATION.md
 
-**Number of commits**: 
+**Number of commits**: 10
 
-**Commit messages**: 
-1. 
-2. 
-3. 
-4. 
+**Commit messages**:
+1. t1
+2. t2
+3. t3
+4. t4
 
 ---
 
 ## Summary
 
-**Total time spent on assignment**: 
+**Total time spent on assignment**: 6h
 
 **Key takeaways**: 
-1. 
-2. 
-3. 
+1. Learned how to apply ReentrantLock to protect shared data.
+2. Understood the practical difference between coarse-grained and fine-grained locking.
+3. Mastered the use of Semaphores to manage resource limits (CPU access
 
 **Most challenging aspect**: 
-
+Designing the fine-grained locking logic to ensure that no race conditions occur while maintaining high execution speed.
 **What I'm most proud of**: 
-
+I am most proud that I successfully implemented Fine-Grained Locking and Semaphores to ensure perfect synchronization. This made the simulation highly efficient and data-accurate, which was the most technical part of the assignment.
 ---
 
 **End of Documentation**
